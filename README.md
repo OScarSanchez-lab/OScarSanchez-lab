@@ -26,6 +26,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Tecnologías y herramientas</b>
 
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -45,26 +47,38 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+
+
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw3YXVlMjF0M3EwZW10bTYzbHM0cDhuaXNsM2ZncWYxbHFod2FpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hp2yMQLrvuVv8mKZOb/giphy.gif" width="25"> <b>Proyectos Destacados</b>
 
 <ul>
   <li>
-    <b>🐍 Proyecto Pygame:</b> Videojuego desarrollado en Python. <br>
+    <b>🐍 Proyecto Pygame</b> <br>
+    
+  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    <br> Videojuego interactivo desarrollado con la librería Pygame. <br>
     <a href="https://github.com/La-Salle-Gracia-FP/25-26-python-game-OScarSanchez-lab">Ver Repositorio →</a>
   </li>
   <br>
   <li>
-    <b>🚗 Proyecto JavaCar:</b> Aplicación de gestión/lógica en Java. <br>
+    <b>🚗 Proyecto JavaCar</b> <br>
+    
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+    <br> Aplicación de lógica y gestión de vehículos enfocada en Programación Orientada a Objetos. <br>
     <a href="https://github.com/LSG-Programacio/practica-javacar-eric-oscar-1">Ver Repositorio →</a>
   </li>
   <br>
   <li>
-    <b>✈️ Travel Dashboard:</b> Panel de control para gestión de viajes. <br>
+    <b>✈️ Travel Dashboard</b> <br>
+    
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    <br> Panel de control dinámico para la gestión de rutas y datos de viajes. <br>
     <a href="https://github.com/OScarSanchez-lab/Fork-de-0373-dam-pr2-OScarSanchez-lab">Ver Repositorio →</a>
   </li>
 </ul>
 
-<br>
 
 <br>
 
