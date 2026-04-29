@@ -38,12 +38,28 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
+<h3 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> 
+  Mis Estadísticas de GitHub
+</h3>
 
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=OScarSanchez-lab&theme=dark&show_icons=true&count_private=true" />
+      <br><br>
+      <img title="GitHub Streak" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OScarSanchez-lab&theme=dark&hide_border=false" /> 
+    </td>
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OScarSanchez-lab&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    </td>
+  </tr>
+</table>
 
 
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZudW12dTZ4ZTUzanM4dGUwczg5dDg5NnI0aTg2bGIxY242dG96MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LPrbWzwlsHWj5enfwK/giphy.gif" width="30" height="30"> 
   Connect with me
 </h3>
 
