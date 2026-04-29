@@ -63,8 +63,8 @@
   <li>
     <b>🚗 Proyecto JavaCar</b> <br>
     
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-    <br> Aplicación de lógica y gestión de vehículos enfocada en Programación Orientada a Objetos. <br>
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<br> Aplicación de lógica y gestión de vehículos enfocada en Programación Orientada a Objetos. <br>
     <a href="https://github.com/LSG-Programacio/practica-javacar-eric-oscar-1">Ver Repositorio →</a>
   </li>
   <br>
