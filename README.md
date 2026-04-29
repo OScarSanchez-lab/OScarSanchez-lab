@@ -22,6 +22,9 @@
     </td>
   </tr>
 </table>
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Tecnologías y herramientas</b>
 
@@ -37,6 +40,35 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw3YXVlMjF0M3EwZW10bTYzbHM0cDhuaXNsM2ZncWYxbHFod2FpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hp2yMQLrvuVv8mKZOb/giphy.gif" width="25"> <b>Proyectos Destacados</b>
+
+<ul>
+  <li>
+    <b>🐍 Proyecto Pygame:</b> Videojuego desarrollado en Python. <br>
+    <a href="https://github.com/La-Salle-Gracia-FP/25-26-python-game-OScarSanchez-lab">Ver Repositorio →</a>
+  </li>
+  <br>
+  <li>
+    <b>🚗 Proyecto JavaCar:</b> Aplicación de gestión/lógica en Java. <br>
+    <a href="https://github.com/LSG-Programacio/practica-javacar-eric-oscar-1">Ver Repositorio →</a>
+  </li>
+  <br>
+  <li>
+    <b>✈️ Travel Dashboard:</b> Panel de control para gestión de viajes. <br>
+    <a href="https://github.com/OScarSanchez-lab/Fork-de-0373-dam-pr2-OScarSanchez-lab">Ver Repositorio →</a>
+  </li>
+</ul>
+
+<br>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> 
@@ -55,8 +87,6 @@
     </td>
   </tr>
 </table>
-
-
 
 <h3 align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZudW12dTZ4ZTUzanM4dGUwczg5dDg5NnI0aTg2bGIxY242dG96MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LPrbWzwlsHWj5enfwK/giphy.gif" width="30" height="30"> 
