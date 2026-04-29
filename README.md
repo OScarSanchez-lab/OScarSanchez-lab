@@ -22,3 +22,29 @@
     </td>
   </tr>
 </table>
+
+
+
+<h3 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> 
+  Connect with me
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/oscar-s%C3%A1nchez-villarruel/" target="_blank">
+    <img src="https://img.icons8.com/doodle/45/000000/linkedin--v2.png" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/OScarSanchez-lab" target="_blank">
+    <img src="https://img.icons8.com/doodle/45/000000/github--v1.png" alt="GitHub">
+  </a>
+  <a href="https://stackoverflow.com/users/32450401/oscar-s%c3%a1nchez-villarruel" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="Stack Overflow">
+  </a>
+  <a href="mailto:oscar.sanchez@gracia.lasalle.cat">
+    <img src="https://img.icons8.com/doodle/45/000000/gmail-new.png" alt="Email">
+  </a>
+</p>
+
+<p align="center">
+  <code>oscar.sanchez@gracia.lasalle.cat</code>
+</p>
