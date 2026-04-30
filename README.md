@@ -49,7 +49,7 @@
 
 
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw3YXVlMjF0M3EwZW10bTYzbHM0cDhuaXNsM2ZncWYxbHFod2FpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hp2yMQLrvuVv8mKZOb/giphy.gif" width="25"> <b>Proyectos Destacados</b>
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTAzdm5jMW1naXJpemt2Z3NqMno4bjJld2k1b3Robmw4dDdsd29nYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JRJWsfX0IzxVzXIujl/giphy.gif" width="25"> <b>Proyectos Destacados</b>
 
 <ul>
   <li>
