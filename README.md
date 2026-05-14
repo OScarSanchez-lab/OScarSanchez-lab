@@ -88,7 +88,6 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> 
   Mis Estadísticas de GitHub
 </h3>
-
 <table align="center">
   <tr border="none">
     <td width="50%" align="center">
